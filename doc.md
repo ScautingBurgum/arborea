@@ -1,9 +1,3 @@
-# Arborea
-
-## Overview
-
-Arborea lets you create, manage and traverse tree structures. It's very basic and simple.
-
 ## Classes
 
 <dl>
@@ -169,3 +163,4 @@ Removes the passed Node as a child from this Node and deletes it from the [Tree]
 | Param | Type | Description |
 | --- | --- | --- |
 | node | [<code>Node</code>](#Node) | the Node to be deleted |
+

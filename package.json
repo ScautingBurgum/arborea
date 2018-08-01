@@ -1,0 +1,16 @@
+{
+  "name": "arborea",
+  "version": "0.0.1",
+  "description": "Create, manage and traverse tree structures",
+  "main": "arborea.js",
+  "author": "Valentijn Baakman",
+  "license": "MIT",
+  "scripts": {
+    "doc": "jsdoc2md arborea.js > doc.md",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "jsdoc-to-markdown": "^4.0.1",
+    "lodash": "^4.17.10"
+  }
+}
